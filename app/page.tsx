@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 export default function Home() {
   return (
     <div>
-     <div className='flex flex-col justify-center px-4 md:px-8 lg:px-16 py-8 gap-60 h-1/4 '>
+     <div className='flex flex-col justify-center px-4 md:px-8 lg:px-16 py-8 gap-60 h-1/4  ' >
       <div className='bg-heroimg'>
 
 <Navbar/>

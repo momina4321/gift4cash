@@ -4,9 +4,9 @@ import Image from "next/image";
 export default function HassleFree(){
     return (
         <div className="flex flex-col gap-12 justify-center items-center ">
-<p className="text-green text-3xl font-semibold  sm:text-2xl lg:text-3xl">HASSLE-FREE PROCESS</p>
-<p className="font-medium text-5xl lg:text-5xl sm:text-xl ">How does it work?</p>
-<p className="font-medium text-xl text-gray-500 leading-8 text-center w-[1040px] lg:block sm:hidden">We make it easy for you to redeem your gift cards. Our straightforward process is efficient to ensure we can get your money to you ASAP! After you call us, this is typically how the process works:</p>
+<p className="text-green text-3xl font-semibold  sm:text-xl lg:text-3xl">HASSLE-FREE PROCESS</p>
+<p className="font-medium text-5xl lg:text-5xl sm:text-4xl ">How does it work?</p>
+<p className="font-medium text-xl text-gray-500 leading-8 text-center w-[1040px] lg:block hidden">We make it easy for you to redeem your gift cards. Our straightforward process is efficient to ensure we can get your money to you ASAP! After you call us, this is typically how the process works:</p>
        
        <div className="grid lg:grid-cols-3 sm:grid-cols-1 gap-10 items-start">
 

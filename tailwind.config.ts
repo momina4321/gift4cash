@@ -19,7 +19,9 @@ const config: Config = {
         'ornament':"url('/Ornament.svg')"
       },
       backgroundSize: {
-        'small':'900px'
+        'lg':'900px',
+        'small':'200px'
+
       },
       backgroundPosition:{
 'pos':'220px 140px'
